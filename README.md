@@ -3,7 +3,7 @@
  |D|E|C|f|r|e|a|k|
  +-+-+-+-+-+-+-+-+
 ```
-> Created with [http://patorjk.com/software/taag/], Font 'Digital'
+> Created with (http://patorjk.com/software/taag/), Font 'Digital'
 
 # Hi there 👋
 
